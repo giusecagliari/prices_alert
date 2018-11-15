@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c66084e-9af9-4fb9-86e9-84f65b040a2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_blog/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_blog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_blog/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_blog/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_blog/src/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_blog/src/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_blog/src/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_blog/src/models/blog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_blog/src/models/post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_blog/src/models/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_blog/src/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_blog/src/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_blog/src/templates/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_blog/src/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/arr-flatten/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/arr-flatten/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/async/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/async/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/async/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/async/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/async/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/async/dist/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/async/dist/async.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/async/lib/async.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/async/lib/async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/async/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/async/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/backo2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/backo2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/base64-arraybuffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/base64-arraybuffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/binary-extensions/binary-extensions.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/binary-extensions/binary-extensions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/binary-extensions/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/binary-extensions/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/blob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/blob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/browser-sync-ui/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/browser-sync-ui/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/browser-sync-ui/lib/async.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/browser-sync-ui/lib/async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/browser-sync-ui/lib/plugins/network-throttle/network-throttle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/browser-sync-ui/lib/plugins/network-throttle/network-throttle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/browser-sync-ui/lib/plugins/network-throttle/throttle-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/browser-sync-ui/lib/plugins/network-throttle/throttle-server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/browser-sync-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/browser-sync-ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/browser-sync-ui/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/browser-sync-ui/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/camelcase/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/camelcase/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/camelcase/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/camelcase/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/chalk/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/chalk/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/chokidar/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/chokidar/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/cliui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/cliui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/commander/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/commander/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/commander/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/commander/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/commander/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/commander/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/commander/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/commander/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/component-bind/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/component-bind/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/component-emitter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/component-emitter/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/component-inherit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/component-inherit/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/decamelize/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/decamelize/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/eazy-logger/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/eazy-logger/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/engine.io-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/engine.io-client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/engine.io-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/engine.io-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/etag/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/etag/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/follow-redirects/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/follow-redirects/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/for-in/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/for-in/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/fresh/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/fresh/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/get-caller-file/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/get-caller-file/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/graceful-fs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/graceful-fs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/has-binary2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/has-binary2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/has-cors/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/has-cors/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/http-proxy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/http-proxy/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/immutable/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/immutable/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/indexof/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/indexof/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/inherits/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/inherits/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/is-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/is-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/is-builtin-module/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/is-builtin-module/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/is-extendable/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/is-extendable/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/isarray/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/isarray/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/isarray/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/isarray/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/isobject/node_modules/isarray/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/isobject/node_modules/isarray/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/isobject/node_modules/isarray/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/isobject/node_modules/isarray/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/isobject/node_modules/isarray/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/isobject/node_modules/isarray/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/isobject/node_modules/isarray/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/isobject/node_modules/isarray/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/kind-of/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/kind-of/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/load-json-file/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/load-json-file/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/History.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/History.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/node_modules/debug/.coveralls.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/node_modules/debug/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/node_modules/debug/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/node_modules/debug/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/node_modules/debug/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/node_modules/debug/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/node_modules/debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/node_modules/debug/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/node_modules/debug/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/node_modules/debug/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/node_modules/debug/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/node_modules/debug/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/node_modules/debug/src/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/node_modules/debug/src/debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/node_modules/debug/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/node_modules/debug/src/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/localtunnel/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/lodash/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/lodash/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/lodash/_baseMergeDeep.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/lodash/_baseMergeDeep.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/lodash/_hasUnicodeWord.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/lodash/_hasUnicodeWord.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/lodash/_safeGet.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/lodash/_safeGet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/lodash/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/lodash/core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/lodash/core.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/lodash/core.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/lodash/fp/_baseConvert.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/lodash/fp/_baseConvert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/lodash/fp/_mapping.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/lodash/fp/_mapping.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/lodash/lodash.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/lodash/lodash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/lodash/lodash.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/lodash/lodash.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/lodash/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/lodash/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/micromatch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/micromatch/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/mime-db/HISTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/mime-db/HISTORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/mime-db/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/mime-db/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/mime-db/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/mime-db/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/mime-db/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/mime-db/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/mime-types/HISTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/mime-types/HISTORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/mime-types/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/mime-types/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/mime-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/mime-types/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/minimatch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/minimatch/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/minimist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/minimist/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/ms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/ms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/normalize-package-data/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/normalize-package-data/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/number-is-nan/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/number-is-nan/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/object-component/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/object-component/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/opn/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/opn/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/os-locale/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/os-locale/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/parseqs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/parseqs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/parseuri/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/parseuri/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/pify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/pify/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/pinkie-promise/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/pinkie-promise/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/qs/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/qs/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/qs/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/qs/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/qs/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/qs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/qs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/qs/dist/qs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/qs/dist/qs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/qs/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/qs/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/qs/lib/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/qs/lib/parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/qs/lib/stringify.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/qs/lib/stringify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/qs/lib/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/qs/lib/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/qs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/qs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/qs/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/qs/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/qs/test/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/qs/test/parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/qs/test/stringify.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/qs/test/stringify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/qs/test/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/qs/test/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/randomatic/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/randomatic/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/randomatic/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/randomatic/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/randomatic/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/randomatic/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/read-pkg-up/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/read-pkg-up/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readable-stream/node_modules/isarray/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readable-stream/node_modules/isarray/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readable-stream/node_modules/isarray/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readable-stream/node_modules/isarray/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readable-stream/node_modules/isarray/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readable-stream/node_modules/isarray/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readable-stream/node_modules/isarray/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readable-stream/node_modules/isarray/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/readdirp/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/examples/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/examples/callback-api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/examples/grep.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/examples/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/examples/stream-api-pipe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/examples/stream-api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/readdirp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/readdirp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/readdirp/readdirp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/stream-api.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/readdirp/stream-api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/test/bed/root_dir1/root_dir1_file1.ext1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/test/bed/root_dir1/root_dir1_file2.ext2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/test/bed/root_dir1/root_dir1_file3.ext3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/test/bed/root_dir1/root_dir1_subdir1/root1_dir1_subdir1_file1.ext1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/test/bed/root_dir2/root_dir2_file1.ext1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/test/bed/root_dir2/root_dir2_file2.ext2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/test/bed/root_file1.ext1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/test/bed/root_file2.ext2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/test/bed/root_file3.ext3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/test/readdirp-stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/readdirp/test/readdirp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/repeat-element/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/repeat-element/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/repeat-string/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/repeat-string/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/require-directory/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/require-directory/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/require-main-filename/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/require-main-filename/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/safe-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/safe-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/semver/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/semver/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/semver/bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/semver/bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/semver/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/semver/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/semver/semver.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/semver/semver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/send/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/send/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/set-blocking/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/set-blocking/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/set-immediate-shim/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/set-immediate-shim/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io-client/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/socket.io-client/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io-client/dist/socket.io.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/socket.io-client/dist/socket.io.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io-client/dist/socket.io.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/socket.io-client/dist/socket.io.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io-client/dist/socket.io.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/socket.io-client/dist/socket.io.slim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io-client/dist/socket.io.slim.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/socket.io-client/dist/socket.io.slim.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io-client/lib/socket.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/socket.io-client/lib/socket.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/socket.io-client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io-parser/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/socket.io-parser/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io-parser/is-buffer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/socket.io-parser/is-buffer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/socket.io-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/engine.io-client/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/engine.io-client/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/engine.io-client/engine.io.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/engine.io-client/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/engine.io-client/lib/socket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/engine.io-client/lib/transport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/engine.io-client/lib/transports/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/engine.io-client/lib/transports/polling-jsonp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/engine.io-client/lib/transports/polling-xhr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/engine.io-client/lib/transports/polling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/engine.io-client/lib/transports/websocket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/engine.io-client/lib/xmlhttprequest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/engine.io-client/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-client/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-client/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-client/dist/socket.io.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-client/dist/socket.io.dev.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-client/dist/socket.io.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-client/dist/socket.io.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-client/dist/socket.io.slim.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-client/dist/socket.io.slim.dev.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-client/dist/socket.io.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-client/dist/socket.io.slim.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-client/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-client/lib/manager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-client/lib/on.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-client/lib/socket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-client/lib/url.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-client/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-parser/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-parser/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-parser/binary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-parser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-parser/is-buffer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/node_modules/socket.io-parser/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/socket.io/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/socket.io/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/spdx-correct/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/spdx-correct/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/spdx-correct/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/spdx-correct/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/spdx-correct/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/spdx-correct/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/spdx-correct/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/spdx-correct/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/spdx-exceptions/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/spdx-exceptions/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/spdx-exceptions/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/spdx-exceptions/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/string-width/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/string-width/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/strip-ansi/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/strip-ansi/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/to-array/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/to-array/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/which-module/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/which-module/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/window-size/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/window-size/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/window-size/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/window-size/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/window-size/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/window-size/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/window-size/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/window-size/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/ws/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/ws/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/xmlhttprequest-ssl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/xmlhttprequest-ssl/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/y18n/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/y18n/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/yargs-parser/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/yargs-parser/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/yargs-parser/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/yargs-parser/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/yargs-parser/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/yargs-parser/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/yargs-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/yargs-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/yargs/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/yargs/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/yargs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/yargs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/yargs/lib/command.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/yargs/lib/command.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/yargs/lib/completion.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/yargs/lib/completion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/yargs/lib/usage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/yargs/lib/usage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/yargs/lib/validation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/yargs/lib/validation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/yargs/locales/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/yargs/locales/en.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/yargs/locales/pt.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/yargs/locales/pt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/yargs/locales/pt_BR.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/yargs/locales/pt_BR.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/yargs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/yargs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/yargs/yargs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/yargs/yargs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/node_modules/yeast/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/node_modules/yeast/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-test/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../git-test/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newproject/app/Http/Controllers/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../newproject/app/Http/Controllers/PostController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newproject/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../newproject/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newproject/app/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/../newproject/app/Post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newproject/app/Role.php" beforeDir="false" afterPath="$PROJECT_DIR$/../newproject/app/Role.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newproject/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/../newproject/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newproject/database/migrations/2018_09_18_150539_create_users_roles_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/../newproject/database/migrations/2018_09_18_150539_create_users_roles_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newproject/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../newproject/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newproject/resources/views/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../newproject/resources/views/contact.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newproject/resources/views/post/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../newproject/resources/views/post/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newproject/resources/views/post/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../newproject/resources/views/post/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newproject/resources/views/post/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../newproject/resources/views/post/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newproject/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../newproject/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuebnb/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../vuebnb/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuebnb/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../vuebnb/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuebnb/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/../vuebnb/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuebnb/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/../vuebnb/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuebnb/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../vuebnb/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuebnb/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/../vuebnb/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuebnb/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/../vuebnb/config/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuebnb/database/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../vuebnb/database/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuebnb/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/../vuebnb/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuebnb/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/../vuebnb/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuebnb/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../vuebnb/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuebnb/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../vuebnb/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuebnb/resources/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vuebnb/resources/assets/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuebnb/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/../vuebnb/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuebnb/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../vuebnb/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuebnb/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vuebnb/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vuebnb/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../vuebnb/yarn.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-638707370">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/requirements.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="993" />
+    <option name="y" value="30" />
+    <option name="width" value="982" />
+    <option name="height" value="940" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="prices_alert" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prices_alert" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c66084e-9af9-4fb9-86e9-84f65b040a2b" name="Default Changelist" comment="" />
+      <created>1542301104323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542301104323</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
